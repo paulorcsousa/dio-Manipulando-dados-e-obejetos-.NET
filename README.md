@@ -1,2 +1,2 @@
-# dio-Manipulando-dados-e-obejetos-.NET
+# dio-Manipulando-dados-e-objetos-.NET
 Repositório para estudo do bootcamp DIO 
